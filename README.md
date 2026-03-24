@@ -1,20 +1,45 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Homenagem a Moacy Pinto de Melo
 
-# Run and deploy your AI Studio app
+Este é um site memorial dedicado à vida e ao legado do **Capitão Moacy Pinto de Melo** (1938-2022). O projeto foi desenvolvido para preservar a memória de sua carreira exemplar na Polícia Militar do Piauí, sua dedicação à família e seu amor pela cidade de Barras.
 
-This contains everything you need to run your app locally.
+## 🌟 Funcionalidades
 
-View your app in AI Studio: https://ai.studio/apps/3f124b27-cbd9-412f-9cf5-936b2019c790
+- **Design Editorial Premium**: Tipografia e layout refinados para uma experiência de leitura respeitosa.
+- **Linha do Tempo de Serviço**: Lista das cidades onde Moacy serviu como Delegado de Polícia.
+- **Seção de Legado**: Destaque para seus valores, paixões (como a pescaria) e homenagens públicas.
+- **Espaço de Saudade**: Mensagem emocionante dedicada por sua filha, Valdênia Melo.
+- **Animações Fluídas**: Uso de `motion` para transições suaves e elegantes.
+- **Totalmente Responsivo**: Otimizado para visualização em celulares, tablets e computadores.
 
-## Run Locally
+## 🛠️ Tecnologias Utilizadas
 
-**Prerequisites:**  Node.js
+- **React 19**
+- **TypeScript**
+- **Tailwind CSS** (Estilização moderna e utilitária)
+- **Motion** (Animações de interface)
+- **Lucide React** (Ícones minimalistas)
+- **Vite** (Build tool rápida)
 
+## 🚀 Como Executar o Projeto
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1. **Instale as dependências**:
+   ```bash
+   npm install
+   ```
+
+2. **Inicie o servidor de desenvolvimento**:
+   ```bash
+   npm run dev
+   ```
+
+3. **Acesse no navegador**:
+   O projeto estará disponível em `http://localhost:3000`.
+
+## 📜 Créditos
+
+- **Conteúdo Original**: Baseado nas informações fornecidas pela família.
+- **Desenvolvimento**: Criado com carinho por **PNTECH**.
+- **Plataforma**: Desenvolvido no Google AI Studio.
+
+---
+*Em memória de um homem de palavra, honesto e leal.*
